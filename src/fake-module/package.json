@@ -1,0 +1,6 @@
+{
+  "name": "fake-module",
+  "version": "0.0.0",
+  "main": "index.js",
+  "sideEffects": ["*.js"]
+}
